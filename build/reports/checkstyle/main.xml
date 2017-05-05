@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6">
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\AbstractBasePage.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\Login.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\PivotalHome.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\api\Connection.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\api\RequestManager.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\selenium\Chrome.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\selenium\DriverFactory.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\selenium\DriverManager.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\selenium\Firefox.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\selenium\IDriver.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\util\CommonActions.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\util\Constants.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\util\PageTransporter.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\framework\util\PropertiesInfo.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\pages\accounts\AccountSettings.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\pages\accounts\Accounts.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\pages\accounts\CreateAccountForm.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\pages\accounts\ToolBarAccount.java">
+</file>
+<file name="C:\Users\xianqe\Giovanny-Exam\src\main\java\com\jalasoft\selenium\pivotaltracker\pages\home\Home.java">
+</file>
+</checkstyle>
